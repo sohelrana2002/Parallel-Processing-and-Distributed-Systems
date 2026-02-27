@@ -1,4 +1,4 @@
-# Parallel Processing and Distributed Systems
+# 🚀 Parallel Processing and Distributed Systems
 A comprehensive repository covering the fundamental concepts, algorithms, and implementations of Parallel Processing and Distributed Systems. 
 This project demonstrates how large computational problems can be divided and executed efficiently across multiple processors or machines.
 
@@ -7,7 +7,7 @@ This project demonstrates how large computational problems can be divided and ex
 # What is Parallel Processing?
 Parallel processing is a computing technique where multiple processors execute tasks simultaneously to reduce execution time and increase performance.
 
-## Key Concepts:
+## 🛠️ Key Concepts:
 - Data Parallelism
 - Task Parallelism
 - Shared Memory Model
@@ -19,7 +19,7 @@ Parallel processing is a computing technique where multiple processors execute t
 # What is a Distributed System?
 A distributed system is a collection of independent computers that appear to users as a single coherent system.
 
-## Characteristics:
+## 🛠️ Characteristics:
 - Scalability
 - Fault Tolerance
 - Consistency
