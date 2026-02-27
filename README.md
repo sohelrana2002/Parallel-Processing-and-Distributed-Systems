@@ -8,11 +8,11 @@ This project demonstrates how large computational problems can be divided and ex
 Parallel processing is a computing technique where multiple processors execute tasks simultaneously to reduce execution time and increase performance.
 
 ## Key Concepts:
--Data Parallelism
--Task Parallelism
--Shared Memory Model
--Distributed Memory Model
--Speedup & Efficiency
+- Data Parallelism
+- Task Parallelism
+- Shared Memory Model
+- Distributed Memory Model
+- Speedup & Efficiency
 
 ---
 
@@ -20,8 +20,8 @@ Parallel processing is a computing technique where multiple processors execute t
 A distributed system is a collection of independent computers that appear to users as a single coherent system.
 
 ## Characteristics:
--Scalability
--Fault Tolerance
--Consistency
--Transparency
--Concurrency
+- Scalability
+- Fault Tolerance
+- Consistency
+- Transparency
+- Concurrency
