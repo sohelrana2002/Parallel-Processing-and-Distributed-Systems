@@ -26,7 +26,7 @@ public class HTTP_Handler_PDF {
             Headers h = exchange.getResponseHeaders();
             h.add("Content-Type", "application/pdf");
 
-            File file = new File("file:///C:/Users/Sohel%20Rana/Downloads/sohel_cms_project.pdf");
+            File file = new File("C:/Users/Sohel Rana/Downloads/sohel_cms_project.pdf");
 
             byte[] bytearray = new byte[(int) file.length()];
             FileInputStream fis = new FileInputStream(file);

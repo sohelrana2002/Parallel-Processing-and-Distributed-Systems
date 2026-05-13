@@ -1,5 +1,3 @@
-package multiple_client_msg_passing;
-
 import java.io.BufferedReader;
 import java.io.DataInputStream;
 import java.io.DataOutputStream;

@@ -1,5 +1,3 @@
-package multiple_client_msg_passing;
-
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
 import java.net.ServerSocket;
