@@ -1,3 +1,7 @@
+# Ignore folders 
+Assignment/
+Lab Report/
+
 # Compiled class file
 *.class
 
